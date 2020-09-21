@@ -1,8 +1,1 @@
-Web Development -- Python can be used to make web - applications at a rapid rate.
-Game Development -- Python is also used in the development of interactive games.
-Machine Learning and Artificial Intelligence.
-Data Science and Data Visualization.
-Desktop GUI.
-Web Scraping Applications.
-Business Applications.
-CAD Applications.
+PYTHON is a simple and minimalistic language. Reading a good PYTHON program feels almost like reading English, although very strict English! This pseudo-code nature of PYTHON is one of its greatest strengths. It allows you to concentrate on the solution to the problem rather than the language itself
